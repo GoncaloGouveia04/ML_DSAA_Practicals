@@ -18,6 +18,8 @@ corresponding practical class.
 | Week 5 | Performance measures | [Open](notebooks/week_05/week_05_performance_measures.ipynb) | Not yet released |
 | Week 5 | Model selection | [Open](notebooks/week_05/week_05_model_selection.ipynb) | Not yet released |
 | Week 6 | Linear and logistic models | [Open](notebooks/week_06/week_06_linear_logistic.ipynb) | Not yet released |
+| Week 7 | Probability and Naive Bayes | [Open](notebooks/week_07/week_07_naive_bayes.ipynb) | Not yet released |
+| Week 7 | Bayesian regression | [Open](notebooks/week_07/week_07_bayesian_regression.ipynb) | Not yet released |
 
 Solutions are separate files, so an update will not replace the notebook in
 which you have been working.
